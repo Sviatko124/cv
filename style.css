@@ -1,0 +1,40 @@
+<style>
+body {
+background-color: green;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-bottom: line;
+border-left: solid;
+border-right: solid;
+border-color: yellow;
+border-width: 5px;
+width: 2%;
+}
+
+h1 {
+  color: #5d1451;
+}
+
+h3 {
+  color: #5d1451;
+}
+
+p {
+  color: green;
+}
+
+h4 {
+  color: #fbe555;
+}
+
+ul {
+  color: #fbe555;
+}
+
+table {
+  color: #fbe555;
+}
+</style>
